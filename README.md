@@ -1,6 +1,7 @@
 # BuddyBoss Live Chat Room
 
 A lightweight, secure live chat room plugin for BuddyBoss and BuddyPress community websites. Enable real-time communication between community members with built-in security features, rate limiting, and optional message encryption.
+![573986121_25475116582093400_1224083023375405588_n](https://github.com/user-attachments/assets/59fb6494-32a4-4985-9d3f-400de20ed3ef)
 
 ## Features
 
